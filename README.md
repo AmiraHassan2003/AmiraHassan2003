@@ -12,10 +12,10 @@
 </p> 
 
 - 🏢 I'm a Software Engineer.
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Embedded Systems or anything related to back end.
+- 👨‍💻 Driven by passion, I specialize in Computer Vision and Embedded Systems, with a focus on integrating computer vision with embedded technologies.
+- 💬 Ask me about my experience with Embedded Systems, computer vision, or anything related to back end.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at "https://amirahassan2003.github.io/Portfolio/" to see some of the projects I've worked on.
+- 👨‍💻 Explore my work! Check out my backend development portfolio (https://amirahassan2003.github.io/Portfolio/) and my machine learning portfolio (https://amirahassan2003.github.io/Portfolio-machine/) to see the projects I’ve worked on.
 
 
 ### Connect with Me :
